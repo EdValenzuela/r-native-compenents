@@ -5,7 +5,8 @@ export const styles = StyleSheet.create({
         marginHorizontal:20
     },
     title:{
-        fontSize:35,
-        fontWeight:'bold'
+        fontSize:25,
+        fontWeight:'bold',
+        marginBottom: 15
     }
 })

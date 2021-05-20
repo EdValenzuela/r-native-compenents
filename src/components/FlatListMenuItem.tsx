@@ -20,7 +20,7 @@ const FlatListMenuItem = ({menuItem}:Props) => {
             <View style={styles.container}>
                 <Icon 
                     name={menuItem.icon}
-                    color="gray"
+                    color="#5856d6"
                     size={30}
                 />
                 <Text style={styles.itemText}>
@@ -31,7 +31,7 @@ const FlatListMenuItem = ({menuItem}:Props) => {
 
                 <Icon 
                     name='caret-forward-outline'
-                    color="gray"
+                    color="#5856d6"
                     size={30}
                 />
             </View>
